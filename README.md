@@ -1,4 +1,4 @@
-<b>Hey, what's up ? I' am Gabriel Paixão<b>
+**Hey, what's up ? I' am Gabriel Paixão**
 
 - 🇧🇷   I'm 22 years old          
 
