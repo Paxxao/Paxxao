@@ -1,8 +1,12 @@
 <b>Hey, what's up ? I' am Gabriel Paixão<b>
-🇧🇷   I'm 22 years old             
-👨🏻‍💻  A beginner programmer (3 years of experience)
-💼  Software Design, Alstom Company, São Paulo - SP, Brasil
-📚  Student, Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brasil 
+
+- 🇧🇷   I'm 22 years old          
+
+- 👨🏻‍💻  A beginner programmer (3 years of experience)
+
+- 💼  Software Design, Alstom Company, São Paulo - SP, Brasil
+
+- 📚  Student, Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brasil 
 
 
 <!---
