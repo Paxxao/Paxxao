@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻  A beginner programmer (3 years of experience)
 
-- 💼  Software Design, Alstom Company, São Paulo - SP, Brasil
+- 💼  Software Designer, Alstom Company, São Paulo - SP, Brasil
 
 - 📚  Student, Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brasil 
 
