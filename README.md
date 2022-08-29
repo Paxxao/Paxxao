@@ -8,6 +8,8 @@
 
 - 📚  Student, Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brasil 
 
+- 🎓 Technical mechatronics, ETEC Jorge Street, São Caetano do Sul - SP, Brazil
+
 
 <!---
 Paxxao/Paxxao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
