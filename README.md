@@ -23,6 +23,14 @@
   <img align="center" alt="px-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="px-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/Paxxao/Pictures/px.jpg">
 </div>
+
+div> 
+  <a href="https://instagram.com/Paxxao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-paix%C3%A3o-rodrigues-da-silva-926b53248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Paxxao/Paxxao/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
   
 
 <!---
