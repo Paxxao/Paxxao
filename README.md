@@ -21,7 +21,7 @@
   <img align="center" alt="px-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="px-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="px-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="px-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="px-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/Paxxao/Pictures/px.jpg">
 </div>
   
 
