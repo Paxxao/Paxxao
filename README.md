@@ -1,6 +1,6 @@
 **Hey, what's up ? I' am Gabriel Paixão**
 
-- 🇧🇷   I'm 22 years old          
+- 🇧🇷   00s          
 
 - 👨🏻‍💻  A beginner programmer (3 years of experience)
 
