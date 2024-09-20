@@ -4,7 +4,7 @@
 
 - 💼  Software Designer, Alstom Company, São Paulo - SP, Brasil
 
-- 📚  SSystems Analysis and Development, University Nove de Julho, São Paulo - SP, Brazil 
+- 📚  Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brazil 
 
 - 🎓 Technical mechatronics, ETEC Jorge Street, São Caetano do Sul - SP, Brazil
 
@@ -24,7 +24,7 @@
 
 <div>  <br>
   <a href="https://instagram.com/Paxxao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-paix%C3%A3o-rodrigues-da-silva-926b53248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/gabriel-paix%C3%A3o-rodrigues-da-silva-926b53248/](https://www.linkedin.com/in/gabrielpaixãors/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
