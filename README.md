@@ -4,7 +4,7 @@
 
 - 💼  Software Designer, Alstom Company, São Paulo - SP, Brasil
 
-- 📚  Student, Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brazil 
+- 📚  SSystems Analysis and Development, University Nove de Julho, São Paulo - SP, Brazil 
 
 - 🎓 Technical mechatronics, ETEC Jorge Street, São Caetano do Sul - SP, Brazil
 
