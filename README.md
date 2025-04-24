@@ -2,7 +2,7 @@
 
 - 🇧🇷   00s          
 
-- 💼  Software Designer, Alstom Company, São Paulo - SP, Brasil
+- 💼  Software Engineer, Alstom Company, São Paulo - SP, Brasil
 
 - 📚  Systems Analysis and Development, University Nove de Julho, São Paulo - SP, Brazil 
 
