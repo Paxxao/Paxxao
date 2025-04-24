@@ -1,4 +1,4 @@
-**Hey, what's up ? I' am Gabriel Paixão, can call me Paxxao 😁**
+**Hey, what's up ? I' am Gabriel Paixão**
 
 - 🇧🇷   00s          
 
