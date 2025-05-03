@@ -10,8 +10,8 @@
 
 <div align="left">
   <a href="https://github.com/gabrielpaixaors">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paxxao&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paxxao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpaixaors&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpaixaors&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -23,7 +23,7 @@
 
 <div>  <br>
 <!--  <a href="https://instagram.com/Paxxao_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/gabrielpaixãors/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabrielpaixaors/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" target="_blank"></a> 
  
  
 </div>
